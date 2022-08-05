@@ -1,0 +1,5 @@
+tmp/
+frontend/little-talks/build/
+frontend/little-talks/.netlify/
+backend/tmp/
+extra-files/
