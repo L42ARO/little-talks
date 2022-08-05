@@ -1,0 +1,7 @@
+{
+  "name": "Little Talks",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

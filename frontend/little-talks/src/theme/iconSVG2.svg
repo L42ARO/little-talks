@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="37.288235"
+   height="35.362663"
+   viewBox="0 0 9.8658454 9.3563713"
+   version="1.1"
+   id="svg5"
+   inkscapeVersion="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodiDocname="liltalks-logo.svg"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg"
+   xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlnsCc="http://creativecommons.org/ns#"
+   xmlnsDc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title15842">liltalks-logo</title>
+  <sodipodiNamedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscapeShowpageshadow="2"
+     inkscapePageopacity="0"
+     inkscapePagecheckerboard="0"
+     inkscapeDeskcolor="#d8d8d8"
+     inkscapeDocument-units="mm"
+     showgrid="false"
+     inkscapeZoom="8"
+     inkscapeCx="44.875"
+     inkscapeCy="35"
+     inkscapeWindow-width="1920"
+     inkscapeWindow-height="1166"
+     inkscapeWindow-x="-11"
+     inkscapeWindow-y="-11"
+     inkscapeWindow-maximized="1"
+     inkscapeCurrent-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscapeLabel="Layer 1"
+     inkscapeGroupmode="layer"
+     id="layer1"
+     transform="translate(-1.3841134,-1.3742676)">
+    <path
+       id="path11759-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.609243;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 7.1401326,1.3761434 A 4.5075482,4.53738 0 0 0 6.4688558,1.4071493 4.5075482,4.53738 0 0 0 2.5300781,5.4296427 4.5075482,4.53738 0 0 0 5.536613,10.198861 4.5075482,4.53738 0 0 0 10.829313,8.3240397 L 7.0124919,5.9117839 11.249959,4.3645915 A 4.5075482,4.53738 0 0 0 7.1401326,1.3761434 Z m 0.5963461,0.7684285 c 0.7854249,0 1.4159342,0.6641097 1.4159342,1.4531413 0,0.7890315 -0.6305093,1.4510742 -1.4159342,1.4510742 -0.457105,0 -0.8623897,-0.2243756 -1.1213786,-0.5674072 -0.089685,0.056433 -0.1954459,0.088883 -0.3085083,0.088883 -0.021897,0 -0.043343,-0.00122 -0.064595,-0.00362 V 8.224821 A 0.2004685,0.2004685 0 0 1 6.0409749,8.4258423 0.2004685,0.2004685 0 0 1 5.8399536,8.224821 V 4.3594238 a 0.2004685,0.2004685 0 0 1 0.00207,-0.021704 V 4.337203 C 5.7634701,4.2342559 5.7169637,4.1050536 5.7169637,3.9666829 c 0,-0.3279895 0.2619243,-0.605131 0.5896281,-0.605131 0.010241,0 0.020379,-1.82e-5 0.030489,5.168e-4 C 6.4479529,2.6808323 7.030723,2.1445719 7.7364787,2.1445719 Z m 0,0.8397421 c -0.3164889,0 -0.5803264,0.2627032 -0.5803264,0.6133992 0,0.3506961 0.2638375,0.6113322 0.5803264,0.6113322 0.316489,0 0.5777425,-0.2606361 0.5777425,-0.6113322 0,-0.350696 -0.2612535,-0.6133992 -0.5777425,-0.6133992 z M 6.3065918,3.7558431 c -0.1075634,0 -0.197404,0.088625 -0.197404,0.2108398 0,0.1222153 0.08984,0.2108399 0.197404,0.2108399 0.043047,0 0.083035,-0.013878 0.1157552,-0.038757 C 6.374401,4.0182229 6.34178,3.88997 6.327262,3.7568769 6.320692,3.7561973 6.313314,3.7558469 6.306591,3.7558469 Z" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.33269"
+       d="m 1.5688844,10.22946 c -0.0069,-0.0029 -0.01297,-0.0051 -0.01297,-0.0051 -0.0011,0.0026 0.0037,0.0043 0.01297,0.0051 z"
+       id="path11753-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.609243;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 3.2161434,8.2887178 c 0,0 0.01892,0.752537 -0.579952,1.316098 -0.598877,0.5635592 -1.252078,0.7581362 -1.252078,0.7581362 0,0 0.90394,0.485135 1.986112,0.340892 1.08217,-0.144243 1.545648,-0.7640242 1.545648,-0.7640242 z"
+       id="path11787-2"
+       sodipodiNodetypes="czczcc" />
+  </g>
+  <metadata
+     id="metadata15840">
+    <rdfRDF>
+      <ccWork
+         rdfAbout="">
+        <dcTitle>liltalks-logo</dcTitle>
+      </ccWork>
+    </rdfRDF>
+  </metadata>
+</svg>

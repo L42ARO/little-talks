@@ -1,0 +1,19 @@
+.animateFade{
+    animation:  Fade 3s linear;
+    opacity: 0%;
+}
+@keyframes Fade {
+    0%{
+        opacity: 10%;
+    }
+    10%{
+        opacity: 100%;
+    }
+    60%{
+        opacity: 100%;
+    }
+    100%{
+        opacity: 0%;
+    }
+    
+}

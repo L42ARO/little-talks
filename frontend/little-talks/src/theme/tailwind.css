@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .gradient-theme-dark{
+        @apply bg-gradient-to-r from-green-600 to-blue-800;
+    }
+    .gradient-theme-light{
+        @apply bg-gradient-to-r from-green-400 to-blue-400;
+    }
+    .gradient-orange-dark{
+        @apply bg-gradient-to-r from-amber-600 to-red-600;
+    }
+    .gradient-orange-light{
+        @apply bg-gradient-to-r from-amber-400 to-red-400;
+    }
+    .gradient-yellow-dark{
+        @apply bg-gradient-to-r from-orange-400 to-yellow-500;
+    }
+    .gradient-yellow-light{
+        @apply bg-gradient-to-r from-yellow-100 to-yellow-400;
+    }
+    .gradient-slate-dark{
+        @apply bg-gradient-to-r from-blue-900 to-slate-900;
+    }
+    .gradient-gray-dark{
+        @apply bg-gradient-to-r from-slate-700 to-gray-900;
+    }
+}

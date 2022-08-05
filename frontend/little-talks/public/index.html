@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Little Talks</title>
+
+    <base href="/" />
+
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#333333">
+    <meta
+      name="viewport"
+      content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="format-detection" content="telephone=no" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="%PUBLIC_URL%/assets/icon/favicon.png"
+    />
+    <!--MS application-->
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="msapplication-TileColor" content="#001431" />
+    <meta name="msapplication-config" content="assets/icon/browserconfig.xml" />
+    <!-- safari applicatoin-->
+    <link
+      rel="mask-icon"
+      href="assets/icon/safari-pinned-tab.svg"
+      color="#5bbad5"
+    />
+    <!-- add to homescreen for ios -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/icon/apple-touch-icon.png"
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Lil Talks" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <style>
+      HTML,
+      BODY {
+        height: 100%;
+        width: 100%;
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        /* required to prevent rogue scrollbars */
+        overflow: hidden;
+        /* cosmetic stuff: */
+        background-color: rgb(0, 0, 1);
+      }
+      .wrapper {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 0;
+        margin: 0;
+        /* if you want the content to scroll normally: */
+        overflow: auto;
+      }
+      html.plt-ios.plt-pwa {
+        height: 99.9vh !important;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
