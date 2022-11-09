@@ -2,4 +2,4 @@
 Online game to guess words faster ⌛ than others aroudn the world connected at the same time 🏆. Like a wordle but in chat version 😸
 Frontend: React.js with Ionic library
 Backend: Golang using fiber and CockroachDB for database
-<h3><a>liltalks.netlify.com</a></h3>
+<h3><a href="www.liltalks.netlify.app">liltalks.netlify.com</a></h3>
